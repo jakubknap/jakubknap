@@ -1,4 +1,9 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubknap&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubknap&layout=compact&theme=transparent)](https://github.com/jakubknap/github-readme-stats)
+
+
+Hi 👋, I'm Jakub
+Currently I work as a Java Developer and I study computer science in absentia. I love learning and expanding my knowledge. Every problem motivates me to devel
 
 <!--
 **jakubknap/jakubknap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
