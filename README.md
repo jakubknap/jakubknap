@@ -1,21 +1,34 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubknap&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubknap&layout=compact&theme=transparent)](https://github.com/jakubknap/github-readme-stats)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jakub
+===============================================================================================================================
+
+Java Developer
+--------------------------
+
+Currently I work as a Java Developer and I study computer science in absentia.
+In programming, I am
+fascinated by the possibility of creating,
+constant development and the end result
+of my work. I'm an ambitious person with a
+great willingness to learn and develop.
+
+* ✉️  You can contact me at [jknap40@gmail.com](mailto:jknap40@gmail.com)
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,maven,postman,rabbitmq,angular,cassandra,redis&theme=light)](https://skillicons.dev)
 
 
-Hi 👋, I'm Jakub
-Currently I work as a Java Developer and I study computer science in absentia. I love learning and expanding my knowledge. Every problem motivates me to devel
+### Socials
 
-<!--
-**jakubknap/jakubknap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://www.linkedin.com/in/jakub-knap/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-Here are some ideas to get you started:
+### Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/jakubknap"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jakubknap&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubknap&layout=compact&theme=github_dark&hide_border=true)](https://github.com/jakubknap/github-readme-stats)
+
+### CV
+
+<a href="" align="left"> Take look at my CV </a>
