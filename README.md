@@ -15,8 +15,7 @@ great willingness to learn and develop.
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,maven,postman,rabbitmq,angular,cassandra,redis&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,angular,maven,postman&theme=light)](https://skillicons.dev)
 
 ### Socials
 
