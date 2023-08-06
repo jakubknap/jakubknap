@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------------------
 
-Currently I work as a Java Developer and I study computer science in absentia.
-In programming, I am
-fascinated by the possibility of creating,
-constant development and the end result
-of my work. I'm an ambitious person with a
-great willingness to learn and develop.
+Hi, I am Jakub. I've been working as a Java Developer for over a year now and also non-stationary studying computer science.
+<br/>
+In programming, I amfascinated by the possibility of creating, constant development and the end result of my work. 
+<br/>
+I'm an ambitious person with a great willingness to learn and develop.
 
 * ✉️  You can contact me at [jknap40@gmail.com](mailto:jknap40@gmail.com)
 
