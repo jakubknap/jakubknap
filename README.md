@@ -10,8 +10,9 @@ In programming, I amfascinated by the possibility of creating, constant developm
 <br/>
 I'm an ambitious person with a great willingness to learn and develop.
 
-* ✉️  You can contact me at [jknap40@gmail.com](mailto:jknap40@gmail.com)
-* <img src="https://github.com/jakubknap/jakubknap/assets/93727414/87832fde-2fe6-4a5e-a3e0-32c0b5f551eb)" alt="alt text" width="20px" height="20px"> You can see my resume <a href="https://drive.google.com/file/d/13XlQCezG00mOycp_wHKEETNSh85LCxlJ/view?usp=sharing" align="left"> My CV </a>
+* ✉️ You can contact me at [jknap40@gmail.com](mailto:jknap40@gmail.com)
+* <img src="https://github.com/jakubknap/jakubknap/assets/93727414/87832fde-2fe6-4a5e-a3e0-32c0b5f551eb)" alt="alt text" width="20px" height="20px">   You can see my resume <a href="https://drive.google.com/file/d/13XlQCezG00mOycp_wHKEETNSh85LCxlJ/view?usp=sharing" align="left"> My CV </a>
+* 🌍 See my portfolio at <a href="https://jakubknap.github.io/" align="left"> jakubknap.github.io </a>
 
 ### Skills
 
@@ -19,7 +20,9 @@ I'm an ambitious person with a great willingness to learn and develop.
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/jakub-knap/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/jakub-knap/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010754029202" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a href="https://www.instagram.com/kuba_knap/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
 ### Badges
 
