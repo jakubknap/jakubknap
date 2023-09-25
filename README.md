@@ -11,7 +11,7 @@ In programming, I amfascinated by the possibility of creating, constant developm
 I'm an ambitious person with a great willingness to learn and develop.
 
 * ✉️  You can contact me at [jknap40@gmail.com](mailto:jknap40@gmail.com)
-* <img src="https://github.com/jakubknap/jakubknap/assets/93727414/87832fde-2fe6-4a5e-a3e0-32c0b5f551eb)" alt="alt text" width="20px" height="20px"> You can see my resume <a href="https://drive.google.com/file/d/1LjL3DQT7cTCiWjsEzVyhNMB-pomjG4bF/view?usp=sharing" align="left"> My CV </a>
+* <img src="https://github.com/jakubknap/jakubknap/assets/93727414/87832fde-2fe6-4a5e-a3e0-32c0b5f551eb)" alt="alt text" width="20px" height="20px"> You can see my resume <a href="https://drive.google.com/file/d/13XlQCezG00mOycp_wHKEETNSh85LCxlJ/view?usp=sharing" align="left"> My CV </a>
 
 ### Skills
 
