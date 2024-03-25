@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------------------
 
-Hi, I am Jakub. I've been working as a Java Developer for over a year now and also non-stationary studying computer science.
+Hi, I am Jakub. I've been working as a Java Developer for almost 2 years, and I'm also non-stationary studying computer science.
 <br/>
-In programming, I amfascinated by the possibility of creating, constant development and the end result of my work. 
+What fascinates me in programming is the possibility to create, continuous development and the end result of my work.
 <br/>
-I'm an ambitious person with a great willingness to learn and develop.
+I am an ambitious person with a strong desire to learn and grow.
 
 * ✉️ You can contact me at [jknap40@gmail.com](mailto:jknap40@gmail.com)
 * <img src="https://github.com/jakubknap/jakubknap/assets/93727414/87832fde-2fe6-4a5e-a3e0-32c0b5f551eb)" alt="alt text" width="20px" height="20px">   You can see my resume <a href="https://drive.google.com/file/d/13XlQCezG00mOycp_wHKEETNSh85LCxlJ/view?usp=sharing" align="left"> My CV </a>
